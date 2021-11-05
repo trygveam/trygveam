@@ -1,8 +1,4 @@
 ### Hi there 👋
-[![Trygve's GitHub stats](https://github-readme-stats.vercel.app/api?username=trygveam&show_icons=true&theme=tokyonight)
-)](https://github.com/trygveam/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trygveam&layout=compact)](https://github.com/trygveam/github-readme-stats)
-
 <a href="https://github.com/trygve/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=trygveam&show_icons=true&theme=tokyonight" />
 </a>
