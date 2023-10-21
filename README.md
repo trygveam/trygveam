@@ -1,5 +1,6 @@
 ### Hi there 👋
-🔭 Computer Engineering Student at NTNU in Trondheim
+🌱 Currently studying Entrepreneurship and Innovation at 'Free University of Bozen-Bolzano' in Syd Tirol
+🔭 Bachelor in Computer Engineering from NTNU in Trondheim
 </p>
 </p>
 <a href="https://github.com/trygve/github-readme-stats">
@@ -15,7 +16,7 @@
 Here are some ideas to get you started:
 
 - 
-- 🌱 I’m currently learning ...
+-  I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
