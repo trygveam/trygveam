@@ -1,5 +1,5 @@
 ### Hi there 👋
-🌱 Currently studying Entrepreneurship and Innovation at 'Free University of Bozen-Bolzano' in Syd Tirol
+🌱 Currently studying Entrepreneurship and Innovation at 'Free University of Bozen-Bolzano' in Syd Tirol </br>
 🔭 Bachelor in Computer Engineering from NTNU in Trondheim
 </p>
 </p>
